@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alexander Rød Opedal, @alope0420
-- 👀 I’m interested in code optimization, low-level programming, network traffic analysis, reverse engineering, game development, and coding in general.
-- 🌱 I’m currently enrolled in the Bachelor's Degree Programme in Information Technology at the Oslo Metropolitan University.
-- 💞️ I’m proficient in C, C++, Java, JavaScript, and HTML/CSS, and I have some experience with x86asm, x64asm, PHP, Python, and Visual Basic.
-- 🦀 I’m interested in learning Rust.
+- 👋 Hi, I’m Alexander Rød Opedal, @aopedal
+- 👀 I’m interested in low-level programming, code optimization, computer networking, cyber security, reverse engineering, game development, and coding in general.
+- 🌱 I’m currently enrolled in the Bachelor’s Degree Programme in Information Technology at the Oslo Metropolitan University.
+- 💞️ I’m proficient in C, C++, Java, JavaScript/TypeScript, and HTML/CSS, and I have some experience with x86asm, x64asm, Python, PHP, and bash.
+- 🛠️ I’m familiar with frameworks and technologies such as Node.js, React, Express, Next.js, Spring Boot, MariaDB, Redis, Azure (Entra ID, DataFactory, DataLake, Web Apps) and more.
 - 💼 I’m currently a full-time professional translator (en > nb-no, en > nn-no) specialized in IT, looking to transition into a career as a a full-stack developer.
